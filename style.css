@@ -1,0 +1,21 @@
+.one {
+  float: left;
+  width: 400px;
+}
+.two {
+  font-size: 50px;
+}
+.three {
+  font-size: 25px;
+}
+.four {
+  float: right;
+  width: 400px;
+  border-radius: 20px;
+}
+.five {
+  float: left;
+  width: 400px;
+  border-radius: 20px;
+  margin: 10px;
+}
